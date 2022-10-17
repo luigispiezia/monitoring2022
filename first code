@@ -1,0 +1,10 @@
+#install.packages
+
+install.packages("sp")
+
+library (sp)
+data(meuse)
+
+#$ simbol that explain that you find something in the dataset or you can "attach"
+
+
